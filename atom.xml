@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>四叔叔有一个博客</title>
+  
+  <subtitle>听说不用Markdown格式写的博客都不叫真博客。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-02-11T16:43:12.073Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>可爱的四叔叔</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>开博记：莫名其妙的开了个博客</title>
+    <link href="http://yoursite.com/2019/02/11/%E5%BC%80%E5%8D%9A%E8%AE%B0%EF%BC%9A%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99%E7%9A%84%E5%BC%80%E4%BA%86%E4%B8%AA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2019/02/11/开博记：莫名其妙的开了个博客/</id>
+    <published>2019-02-11T15:11:02.000Z</published>
+    <updated>2019-02-11T16:43:12.073Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="试试用markdown写一篇博客"><a href="#试试用markdown写一篇博客" class="headerlink" title="试试用markdown写一篇博客"></a><strong>试试用markdown写一篇博客</strong></h2><p><del>听说不用markdown写的博客不是真博客。。</del></p><hr><p><strong>今天唯一知道的新闻</strong>  </p><p>湾仔码头的水饺皇后今天去世了。打开冰箱瞅了一眼速冻馄饨上面阿姨的照片儿，默默的把馄饨放了回去。<br>—有一种说不出的尴尬油然而生…  </p><p>还行，也算markdown了一下儿下儿……  </p><p><code>**休息，休息一下**</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;试试用markdown写一篇博客&quot;&gt;&lt;a href=&quot;#试试用markdown写一篇博客&quot; class=&quot;headerlink&quot; title=&quot;试试用markdown写一篇博客&quot;&gt;&lt;/a&gt;&lt;strong&gt;试试用markdown写一篇博客&lt;/strong&gt;&lt;/h2&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="mlb" scheme="http://yoursite.com/tags/mlb/"/>
+    
+      <category term="走你" scheme="http://yoursite.com/tags/%E8%B5%B0%E4%BD%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/02/11/hello-world/"/>
+    <id>http://yoursite.com/2019/02/11/hello-world/</id>
+    <published>2019-02-11T13:40:12.239Z</published>
+    <updated>2019-02-11T13:40:12.239Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
