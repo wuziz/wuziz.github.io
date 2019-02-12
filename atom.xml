@@ -61,9 +61,9 @@
     </summary>
     
     
-      <category term="走你" scheme="http://yoursite.com/tags/%E8%B5%B0%E4%BD%A0/"/>
-    
       <category term="mlb" scheme="http://yoursite.com/tags/mlb/"/>
+    
+      <category term="走你" scheme="http://yoursite.com/tags/%E8%B5%B0%E4%BD%A0/"/>
     
   </entry>
   
